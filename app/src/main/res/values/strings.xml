@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">APIGuy</string>
+    <string name="welcome_to_pexel_photo_and_video_grabber">Welcome to Pexel photo and video grabber!</string>
+    <string name="what_would_you_like_to_search_for">Search for a set of photos or videos: </string>
+    <string name="search_for_photos_or_videos">Search for photos or videos?</string>
+    <string name="search">Search</string>
+    <string name="number_of_pictures_you_want">Number of pictures you want:</string>
+    <string name="photos">Photos</string>
+    <string name="videos">Videos</string>
+    <string name="orientation_optional">Orientation (Optional)</string>
+    <string name="landscape">Landscape</string>
+    <string name="portrait">Portrait</string>
+    <string name="square">Square</string>
+    <string name="size_optional">Size (Optional)</string>
+    <string name="large">Large</string>
+    <string name="medium">Medium</string>
+    <string name="small">Small</string>
+    <string name="or_search_by_id">Or Search by ID</string>
+    <string name="search_by_id_ex_1098365">Search by id (ex: 1098365)</string>
+    <string name="search_by_id">Search By ID</string>
+    <string name="number">Number</string>
+    <string name="change_layout">Change Layout</string>
+</resources>
